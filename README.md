@@ -1,2 +1,2 @@
 # pacman
-pacman arcade game using c programming langu
+pacman arcade game using c programming language
